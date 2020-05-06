@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="mul_sport">多人运动</string>
+    <string name="single_sport">单人运动</string>
 </resources>
